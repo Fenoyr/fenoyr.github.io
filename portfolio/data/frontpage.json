@@ -1,0 +1,65 @@
+[
+  {
+    "link": "",
+    "image": "",
+    "title": "",
+    "text": "Après 3 ans en facture instrumentale, je me suis réorienté vers l’informatique et ai effectué un BTS SIO en alternance à la SNCF Réseau. Je suis désireux de monter en compétence, notamment dans le développement. Je recherche actuellement une entreprise pour effectuer mon alternance à EPITECH.",
+    "id": 1
+  },
+  {
+    "link": "",
+    "image": "../images/Epitech_Rayan_POUSSUET_PreMSc_Promo2028_Rennes-bis.png",
+    "title": "",
+    "text": "",
+    "id": 2
+  },
+  {
+    "link": "",
+    "image": "",
+    "title": "Diplômes et Formations :",
+    "text": "",
+    "id": 3
+  },
+  {
+    "link": "https://www.epitech.eu/",
+    "image": "../images/EPI-LOGO-SIGNATURE-2018.png",
+    "title": "Pre-MSc and Master of Science",
+    "text": "Alternance à partir de janvier 2026 Rythme de 2 semaines à l’école / 6 semaines en entreprise Développement web /mobile / logiciel Spécialisation après la première année Introduction IA / UX Sécurité / DevOps / Transformation Digitale",
+    "id": 4
+  },
+  {
+    "link": "https://www.esup.fr/filieres/bts-sio-bts-informatique/",
+    "image": "../images/Logo-esup.png",
+    "title": " BTS Services Informatiques aux organisations",
+    "text": "Cybersécurité des services informatiques Conception et maintenance de solutions informatiques support de services et de serveurs supervision de réseaux En alternance pendant 2 ans",
+    "id": 5
+  },
+  {
+    "link": "https://itemm.fr/itemm/",
+    "image": "../images/logo-itemm-piano-on.png",
+    "title": "CAP ATIM et BMA AFI ",
+    "text": "Spécialité Lutherie Guitare Réparations et fabrication d'instruments à cordes pincées, réglages, électronique et vernis au pistolet.",
+    "id": 6
+  },
+  {
+    "link": "",
+    "image": "../images/Logo-UP13-noirS.png",
+    "title": "Première année DUT Informatique",
+    "text": "apprentissage des bases de la programmation Mathématiques pour l'informatique gestion de bases de données",
+    "id": 7
+  },
+  {
+    "link": "",
+    "image": "",
+    "title": "Experience :",
+    "text": "",
+    "id": 8
+  },
+  {
+    "link": "",
+    "image": "../images/Logo_SNCF_Réseau_2015.svg.png",
+    "title": "Apprentissage en maintenance des systèmes informatiques",
+    "text": "2023 à 2025",
+    "id": 9
+  }
+]
