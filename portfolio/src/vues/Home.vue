@@ -1,7 +1,8 @@
 <template>
     <div class="horizontal-scroll-wrapper">
-        <div v-for="el in frontpage" :key="el['id']" :class="classbox[el['id']]">
-            <ElementBox :link="el['link']" :image="el['image']" :title="el['title']" :text="el['text']" />
+        <div v-for="el in frontpage" :key="el['id']">
+            <ElementBox :link="el['link']" :image="el['image']" :title="el['title']" :text="el['text']"
+                :classId="classbox[el['id'] - 1]" />
         </div>
     </div>
 </template>
@@ -12,6 +13,6 @@ import { ref } from 'vue';
 import frontpage from "./../../data/frontpage.json"
 
 console.log(frontpage);
-const classbox = ref(["slower", "slower1", "lower2", "slower-down", "slowest", "faster", "faster1", "fastest", "vertical", "last"])
+const classbox = ref(["intro", "photo", "category-title", "epitech", "esup", "itemm", "P13", "category-title", "SNCF", "last"])
 
 </script>

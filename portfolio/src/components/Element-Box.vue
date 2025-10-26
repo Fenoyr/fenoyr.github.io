@@ -1,31 +1,21 @@
 <template>
-    <div class="boxed-text img-wrapper">
+    <div :class="'img-wrapper ' + classId + ' boxed-text'">
         <a :href="link.length === 0 ? '#' : link" :target="link.length === 0 ? '_self' : '_blank'">
             <img :src="image" alt="">
-            <h2>{{ title }}</h2><br>
-            <p>{{ text }}</p>
+            <h1 v-if="text === ''" v-html="title"></h1>
+            <h2 v-else v-html="title"></h2>
+            <p v-html="text"></p>
         </a>
     </div>
 </template>
 
 <script setup>
 const props = defineProps({
-    link: {
-        type: String,
-        default: "#"
-    },
-    image: {
-        type: String,
-        default: "./../images/ditto.jpg"
-    },
-    title: {
-        type: String,
-        default: ""
-    },
-    text: {
-        type: String,
-        default: ""
-    }
+    link: String,
+    image: String,
+    title: String,
+    text: String,
+    classId: String
 })
 console.log(props.link.length === 0 ? '_blank' : false)
 </script>
