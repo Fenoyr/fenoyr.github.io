@@ -100,6 +100,16 @@ button {
     cursor: pointer;
 }
 
+button:hover {
+    background: #A69689;
+    color: #efecdb;
+}
+
+button:active {
+    background: #efecdb;
+    color: #5D4037;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -118,9 +128,9 @@ nav {
     text-align: center;
     text-decoration: none;
     justify-content: space-between;
-    position: relative;
+    position: sticky;
     top: 0px;
-
+    background: #efecdb;
 }
 
 ul li a {
@@ -211,6 +221,7 @@ p {
     min-width: 30vw;
     background: rgba(0, 0, 0, 0);
     object-fit: contain;
+    filter: none;
 }
 
 .project-content {

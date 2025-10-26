@@ -2,28 +2,28 @@
     {
         "title": "Appli pour un capteur de fréquence cardiaque",
         "image": "./src/images/HRM-graph.jpg",
-        "description": "<ul> <li> * en cours de développement </li> </ul><br/> Création d'une appli pour pouvoir visualiser plus aisément la fréquence cardiaque en temps réel.<br/> Le but est de developper une application permettant de synchroniser la captation de fréquence cardiaque avec de l'enregistrement vidéo et d'avoir des commandes ergonomiques pour certains sports ou de l'utilisation médicale",
+        "description": "<ul> <li> * en cours de développement </li> </ul><br/> Création d'une appli pour pouvoir visualiser plus aisément la fréquence cardiaque en temps réel.<br/> Le but est de developper une application permettant de synchroniser la captation de fréquence cardiaque avec de l'enregistrement vidéo et d'avoir des commandes ergonomiques pour certains sports ou de l'utilisation médicale.<br /> Cette application prend en charge les capteurs de fréquence cardiaque utilisant du Bluetooth Low Energy (BLE). <br/>Elle est développée principalement en Rust et Python pour le traitement des données brutes reçues grâce aux capteurs.",
         "link": "#",
         "id": 0
     },
     {
-        "title": "tata",
-        "image": "./src/images/ditto.jpg",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et necessitatibus sed, ab atque qui perferendis repellat optio deleniti beatae unde dolorum tenetur labore corrupti? Temporibus quia ratione deleniti minus praesentium.",
+        "title": "Conception d'une infrastructure réseau",
+        "image": "./src/images/IMG_20241216_134448_261.jpg",
+        "description": "Mise en place et entretien de plusieurs baies réseau au sein des différents sites de la SNCF Réseau. Cette experience m'a permis de développer mon sens de l'organisation dans une équipe très élargie et mon sens de la rigueur et de l'organisation car la plupart des sites étaient des sites sensibles où une interruption de plus d'une minute pouvait avoir un impact sur la circulation des trains.",
         "link": "#",
         "id": 1
     },
     {
-        "title": "titi",
-        "image": "./src/images/ditto.jpg",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et necessitatibus sed, ab atque qui perferendis repellat optio deleniti beatae unde dolorum tenetur labore corrupti? Temporibus quia ratione deleniti minus praesentium.",
+        "title": "Conception d'un simulateur pour un gestionnaire de tension",
+        "image": "./src/images/IMG_20240403_154246_458.jpg",
+        "description": "Lor de mon alternance à La SNCF Réseau, j'ai été principalement chargé de développer un simulateur afin de former les régulateurs s'occupant de la gestion de la tension éléctrique sur les voies dans tout le Grand Ouest. Ce Simulateur a été conçu avec des langages d'automatisme de bas niveau tels que le Structured Text (ST) ou l'Instruction Language (IL), proche de l'assembleur, ainsi que des langages plus graphiques comme le Functional Block Diagram (FBD) ou le Sequential Function Chart (SFC). <br/>Ce projet ont mis en lumière mes capacités à m'adapter à de nouveaux environnements et à coordonner mes actions afin de répondre au mieux aux demandes des utilisateurs finaux et de pouvoir créer un simulateur le plus fiable et fonctionnel possible à partir d'un logiciel datant des années 1980",
         "link": "#",
         "id": 2
     },
     {
-        "title": "tutu",
-        "image": "./src/images/ditto.jpg",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et necessitatibus sed, ab atque qui perferendis repellat optio deleniti beatae unde dolorum tenetur labore corrupti? Temporibus quia ratione deleniti minus praesentium.",
+        "title": "Fabrication d'une guitare électrique",
+        "image": "./src/images/IMG-20230928-WA0031.jpg",
+        "description": "Du bois brut à l'instrument fini, en passant par des opérations de découpe du bois, de calibrage, de frettage et de vernis, chaque pièce a été usinée et finie par mes soins. <br/> Ce projet m'a appris patience et minutie, afin qu'aucun détail ne soit laissé au hasard. La majorité de l'instrument a été modélisé au préalable par conception assistée par ordinateur (CAO) à l'aide de Solidworks.",
         "link": "#",
         "id": 3
     }
