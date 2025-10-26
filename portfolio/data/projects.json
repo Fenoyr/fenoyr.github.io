@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Appli pour un capteur de fréquence cardiaque",
+        "image": "./src/images/HRM-graph.jpg",
+        "description": "<ul> <li> * en cours de développement </li> </ul><br/> Création d'une appli pour pouvoir visualiser plus aisément la fréquence cardiaque en temps réel.<br/> Le but est de developper une application permettant de synchroniser la captation de fréquence cardiaque avec de l'enregistrement vidéo et d'avoir des commandes ergonomiques pour certains sports ou de l'utilisation médicale",
+        "link": "#",
+        "id": 0
+    },
+    {
+        "title": "tata",
+        "image": "./src/images/ditto.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et necessitatibus sed, ab atque qui perferendis repellat optio deleniti beatae unde dolorum tenetur labore corrupti? Temporibus quia ratione deleniti minus praesentium.",
+        "link": "#",
+        "id": 1
+    },
+    {
+        "title": "titi",
+        "image": "./src/images/ditto.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et necessitatibus sed, ab atque qui perferendis repellat optio deleniti beatae unde dolorum tenetur labore corrupti? Temporibus quia ratione deleniti minus praesentium.",
+        "link": "#",
+        "id": 2
+    },
+    {
+        "title": "tutu",
+        "image": "./src/images/ditto.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et necessitatibus sed, ab atque qui perferendis repellat optio deleniti beatae unde dolorum tenetur labore corrupti? Temporibus quia ratione deleniti minus praesentium.",
+        "link": "#",
+        "id": 3
+    }
+]
